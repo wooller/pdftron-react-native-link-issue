@@ -6,6 +6,8 @@ To run this project first ensure the following
 
 - `yarn install`
 
+- `cd ios && npx pod-install`
+
 - `yarn start`
 
 - In a new terminal tab run `yarn ios` or `yarn android`
